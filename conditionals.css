@@ -1,0 +1,72 @@
+/* General Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Header Styling */
+h2 {
+    color: #333;
+    text-align: center;
+}
+
+/* Section Div Styling */
+.english-div,
+.math-div,
+.ss-div,
+.sci-div {
+    width: 400px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    margin: 20px auto;
+}
+
+/* Section Headers */
+h3 {
+    color: #2a7f62;
+    margin-bottom: 10px;
+}
+
+/* Paragraph Styling */
+p {
+    font-size: 16px;
+    color: #555;
+}
+
+/* Input Field Styling */
+input {
+    max-width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Button Styling */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Message Div Styling */
+.english-message,
+.math-message,
+.ss-message,
+.science-message {
+    color: #d9534f;
+    margin-top: 10px;
+}
